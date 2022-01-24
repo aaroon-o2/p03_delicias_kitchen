@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+header{
+    text-align: center;
+  }
+  /* menu nav*/
+  nav{
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+  text-align: center;
+  }
+  nav ul{
+    text-decoration: none;
+    list-style: none;
+  }
+  
+  nav li{
+  display: inline;
+  margin: 15px;
+  }
+  
+  nav a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  nav a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  nav a:hover {
+    background-color: transparent;
+    text-decoration: none;
+    color: #7ABA96;;
+  }
+  
+/*final*/
+footer {
+    position: relative;
+    padding-right: 35%;
+    padding-left: 25%;
+    display: flex;
+    background-color: black;
+    width: 40%;
+    bottom: 0;
+    margin-top: auto;
+    clear: both;
+}
+footer a {
+   color: white;
+   text-decoration: none;
+}
+footer p {
+   padding-right: 7%;
+   padding-left: 7%;
+   
+}

@@ -1,0 +1,45 @@
+/**{
+	border: 1px solid black;
+}*/
+
+main{
+	margin-left: 2%;
+	margin-right: 2%;
+}
+a.receta:visited{
+	text-decoration: none;
+	color: black;
+}
+a.receta:link{
+	text-decoration: none;
+	color: black;
+}
+a.receta:hover{
+	text-decoration: none;
+	background-color: rgb(132, 212, 204);
+	color: white;
+}
+
+th {
+	width: 10%;
+	border-top: 1px solid black;
+	text-align: left;
+	font-size: 130%;
+	text-decoration: underline;
+	color: #F2A843;
+	padding-top: 10px;
+}
+
+.car{
+	width: 10%;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.Enunciado {
+	font-weight: bold;
+}
+
+footer {
+	margin-top: 3%;
+}
